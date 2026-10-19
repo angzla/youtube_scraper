@@ -12,7 +12,8 @@ In code:
 In terminal:  
 Navigate to folder where this code is saved.
 
-```python3 -m venv venv
+```  
+python3 -m venv venv
 source venv/bin/activate
 pip install yt-dlp
 brew install deno
