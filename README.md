@@ -2,9 +2,11 @@
 
 ## How to run! 
 
-Download python
+Download [python](https://www.python.org/downloads/)
 
-In code:  
+Clone this code into your own workspace.  
+
+Edit code:  
 1. Enter the correct YouTube playlist link
 2. Log into YouTube in whatever browser you are using. Default is safari. If different, replace correct browser in code. 
     1. May have to go into settings to give VScode /terminal full disk access permissions (text me if this is the case) 
