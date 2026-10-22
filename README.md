@@ -22,7 +22,7 @@ python3 youtube_scrape.py
 ```
 
 
-Saves to folder named transcripts in the same file path as wherever you saved this code. 
+Saves txt files to folder named transcripts in the same file path as wherever you saved this code. Saves ONE csv file to where code is saved. 
 
 **NOTE**: every video needs to already have a transcript. If it doesn’t you need to run machine learning / voice recognition
 
